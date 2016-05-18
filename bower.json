@@ -1,6 +1,6 @@
 {
   "name": "t-mystique-auth",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "authors": [
     "Rahul Pilkhwal <rahul.pilkhwal@tavisca.com>",
     "Shailesh Kumar Srivastava <ssrivastava@tavisca.com>",
@@ -24,8 +24,8 @@
     "test",
     "tests"
   ],
-  "dependencies": { 
-    "iron-ajax": "PolymerElements/iron-ajax#1.0.0", 
+  "dependencies": {
+    "iron-ajax": "PolymerElements/iron-ajax#1.0.0",
     "polymer": "Polymer/polymer#^1.0.0"
   },
   "devDependencies": {
