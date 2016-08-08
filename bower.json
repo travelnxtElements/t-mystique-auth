@@ -29,6 +29,7 @@
     "polymer": "Polymer/polymer#^1.0.0"
   },
   "devDependencies": {
+    "t-shared-components": "atomelements/t-shared-components#^1.0.0",
     "webcomponentsjs": "~0.7.14",
     "iron-component-page": "PolymerElements/iron-component-page#~1.0.6"
   }
